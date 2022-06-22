@@ -1,7 +1,7 @@
 DIR=$(dirname "$0")
 cd "$DIR"
 
-
+echo hi
 . scripts/functions.sh
 
 info "Prompting for sudo password..."
